@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andor4225
-- 👀 I’m interested in learing Python for AI and use in sUAS applications
+- 👀 I’m interested in learning Python for AI and use in sUAS applications
 - 🌱 I’m currently learning python through Youtube and Mimo
 - 💞️ I’m looking to collaborate with anyone learning or willing to give tips
 - 📫 How to reach me is through here
