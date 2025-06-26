@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andor4225
 - 👀 I’m interested in learning Python for AI and use in sUAS applications
-- 🌱 I’m currently learning python through Youtube and Mimo
+- 🌱 I’m currently learning python through any mean necessary and getting certified soon.
 - 💞️ I’m looking to collaborate with anyone learning or willing to give tips
 - 📫 How to reach me is through here
 - 😄 Pronouns: None
